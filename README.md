@@ -1,5 +1,6 @@
 # Modified-Space-Invaders-Game
 
+## About
 This is my version of Space Invaders that I created in my App Development class during my senior year of high school (2018-2019).
 
 This is a modified version of the game, NOT a replica. The rules and game style has been altered to show my creativity and the
