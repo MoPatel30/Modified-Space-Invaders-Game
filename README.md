@@ -15,11 +15,16 @@ the backbone of the project.
 (Before my intervention, the executable JAR file would consist of only one alien and a player with the functionality of only going left. Rest of the features
 were implemented by me.)
 
+
 ## Creator:
-Mohammed Patel
+Creator: Mohammed Patel
+
 2nd Year Computer Science & Software Engineering Student at Loyola University Chicago
 
-Lead Website developer for Blockchain@LUC
+Lead Website Developer for Blockchain@LUC
+
+Feel free to email me @Mopatel1214@gmail.com for any questions, comments, or concerns. :)
+
 
 ## Important note
 
