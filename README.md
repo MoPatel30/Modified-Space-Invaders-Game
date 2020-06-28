@@ -16,9 +16,9 @@ the backbone of the project.
 were implemented by me.)
 
 
-![Game with new player](src/sprites/spaceally.PNG)
+!![Game with new player](src/sprites/spaceally.PNG)
 ![Game Picture](src/sprites/space1.PNG)
-![Game Rules](src/sprites/spacerules.PNG)
+!![Game Rules](src/sprites/spacerules.PNG)
 
 
 
