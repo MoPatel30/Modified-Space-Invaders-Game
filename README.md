@@ -16,6 +16,12 @@ the backbone of the project.
 were implemented by me.)
 
 
+![Game with new player](src/images/spaceally.PNG)
+![Game Picture](src/images/space1.PNG)
+![Game Rules](src/images/spacerules.PNG)
+
+
+
 ## Creator:
 Creator: Mohammed Patel
 
